@@ -1,35 +1,21 @@
-![Image](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F58644c20-35c3-412b-9791-c60c97d13a91%2Ftwitter_bannner.png?table=block&id=f8f4de0f-0a48-4c84-8099-19e688954fe3&cache=v2)
+[![Visualway, Creating apps and services to ease your workflow.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Creating%20apps%20and%20services%20to%20ease%20your%20workflow.&title=Visualway)](https://twitter.com/visualwayorg)
+
+![Visitor Counter for visualway](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=visualway)
+
+![Made in India](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=&text=Made%2520in%2520India)
+
 # Creating apps and services to ease your workflow
 
-We are a startup based in India with a passion for creating workflow-centric apps, we put user-satisfaction at the center of everything we do
+We are a startup with the passion for creating workflow-centric apps, we put user-satisfaction at the center of everything we do.
 
-# 🎯 Services we offer
+# 🎯 Our mission
 At Visualway, we create beautifully simple apps using a unique mix of design, technology, and craftsmanship. 
+We are bent on creating unique and helpful experiences for you. We are a non-profit organization with open-source projects for the community to engage and contribute.
 
-🎨
-Branding
+## Our Team
 
-- Logo Design
-
-- Visual Branding
-
-- Design Assets
-
-💬
-UI/UX Design
-
-- Mobile Applications
-
-- Web Applications
- 
-🌐
-Web Development
-
-- HTML
-
-- CSS
-
-- Javascript
+- [Abhiraj](https://abhiraj.glitch.me) 
+- [Aditya](https://twitter.com/Foxy4096)
 
 # 🙏 Follow us
 - [GitHub](https://github.com/Visualway)
