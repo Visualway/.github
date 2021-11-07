@@ -15,7 +15,7 @@ We are bent on creating unique and helpful experiences for you. We are a non-pro
 ## Our Team
 
 - [Abhiraj](https://abhiraj.glitch.me) 
-- [Aditya](https://twitter.com/Foxy4096)
+- [Aditya](https://foxy4096.github.io)
 
 # 🙏 Follow us
 - [GitHub](https://github.com/Visualway)
