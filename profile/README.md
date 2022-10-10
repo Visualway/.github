@@ -12,6 +12,7 @@ We are bent on creating unique and helpful experiences for you. We are a non-pro
 - [Aditya](https://foxy4096.github.io)
 - [Anubhab](https://github.com/Anubhab-Projects)
 - [Harshit](https://bit.ly/33XPWSS)
+- [Ansh Varshney](https://github.com/anshvarshney20)
 
 # 🙏 Follow us
 - [GitHub](https://github.com/Visualway)
