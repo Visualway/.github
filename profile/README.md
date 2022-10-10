@@ -1,9 +1,3 @@
-[![Visualway, Creating apps and services to ease your workflow.](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Creating%20apps%20and%20services%20to%20ease%20your%20workflow.&title=Visualway)](https://twitter.com/visualwayorg)
-
-![Visitor Counter for visualway](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=visualway)
-
-![Made in India](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=&text=Made%2520in%2520India)
-
 # Creating apps and services to ease your workflow
 
 We are a startup with the passion for creating workflow-centric apps, we put user-satisfaction at the center of everything we do.
